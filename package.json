@@ -1,0 +1,30 @@
+{
+  "name": "@lx-yt/eslint-config-default",
+  "version": "0.0.7",
+  "description": "A default config for eslint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lx-yt/eslint-config-default.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "default"
+  ],
+  "author": "Lexyth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lx-yt/eslint-config-default/issues"
+  },
+  "homepage": "https://github.com/lx-yt/eslint-config-default#readme",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">=7.13.1",
+    "@typescript-eslint/parser": ">=7.13.1",
+    "eslint": ">=8.57.0",
+    "typescript": ">=5.4.5"
+  }
+}
