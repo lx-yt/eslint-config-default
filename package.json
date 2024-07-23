@@ -1,6 +1,6 @@
 {
   "name": "@lx-yt/eslint-config-default",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A default config for eslint.",
   "main": "index.js",
   "scripts": {
